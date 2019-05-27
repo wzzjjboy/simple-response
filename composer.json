@@ -1,0 +1,23 @@
+{
+    "name": "alan/simple-response",
+    "type": "library",
+    "authors": [
+        {
+            "name": "alan",
+            "email": "alan.wang@wetax.com.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Alan\\SimpleResponse\\": "src"
+        }
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
